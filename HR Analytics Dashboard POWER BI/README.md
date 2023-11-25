@@ -49,6 +49,7 @@ Welcome to the HR Analytics Dashboard project, a comprehensive exploration of wo
 ## Result:
 The HR Analytics Dashboard using Power BI empowers HR professionals with actionable insights, facilitating strategic decision-making. Through interactive visualizations and predictive analytics, this project contributes to a more data-driven and efficient HR management approach.
 
-![HR_POWER_BI](https://github.com/Navina-Murugadas/Psyliq/assets/72821323/7e91c99a-77e6-43a3-b796-8845f8403d4e)
+![HR Analytics POWER BI](https://github.com/Navina-Murugadas/Psyliq/assets/72821323/92e71b6f-8bb3-45cc-8baa-e53e39dcb586)
+
 
 
