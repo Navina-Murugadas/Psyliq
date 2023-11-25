@@ -6,15 +6,21 @@ Throughout my internship, I've had the opportunity to work on projects that leve
 
 ### Project 1: HR ANALYTICS DASHBOARD
 Explore the HR Analytics Dashboard project, designed to provide insightful metrics and visualizations related to human resources. This project aimed to enhance decision-making processes within the HR department.
-  https://github.com/Navina-Murugadas/Psyliq/tree/main/HR%20Analytics%20Dashboard%20POWER%20BI
+
+
+https://github.com/Navina-Murugadas/Psyliq/tree/main/HR%20Analytics%20Dashboard%20POWER%20BI
 
 ### Project 2: EMPLOYEE ANALYSIS DASHBOARD
 Dive into the Employee Analysis Dashboard project, where I utilized Power BI to create a comprehensive dashboard highlighting key performance indicators and trends related to employee data. This dashboard facilitates a deeper understanding of workforce dynamics.
-  https://github.com/Navina-Murugadas/Psyliq/tree/main/Employee%20Analysis%20%20Dashboard%20POWER%20BI
+
+
+https://github.com/Navina-Murugadas/Psyliq/tree/main/Employee%20Analysis%20%20Dashboard%20POWER%20BI
 
 ### Project 3: PHARMA SALES ANALYSIS DASHBOARD
 Discover the Pharma Sales Analysis Dashboard project, focusing on the pharmaceutical sales domain. This project involved the creation of a dynamic and informative dashboard using Power BI, offering insights into sales performance and market trends.
-  https://github.com/Navina-Murugadas/Psyliq/tree/main/Pharma%20Sales%20Analysis%20%20Dashboard%20%20POWER%20BI
+
+
+https://github.com/Navina-Murugadas/Psyliq/tree/main/Pharma%20Sales%20Analysis%20%20Dashboard%20%20POWER%20BI
 
 ## Achievements
 During my internship at Pysliq, I successfully delivered impactful Data Analysis solutions through the development of insightful dashboards for HR, Employee Analysis, and Pharma Sales.
@@ -28,4 +34,6 @@ If you're interested in staying updated on my future projects and professional j
 Thank you for taking the time to explore my Data Analyst internship projects at Pysliq. If you have any questions or would like to discuss any aspect further, feel free to reach out. I look forward to connecting with you!
 
 Best Regards,
+
+
 Navina.M
