@@ -1,4 +1,4 @@
-# PYSLIQ DATA ANALYST INTERNSHIP PORTFOLIO
+# PYSLIQ DATA ANALYST INTERNSHIP
 Greetings! I'm Navina.M, and I am excited to share with you the projects I've actively contributed to during my internship as a Data Analyst at Pysliq. These projects showcase my hands-on experience in Data Analysis and visualization using Power BI.
 
 ## Overview of Projects
